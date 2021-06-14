@@ -1,0 +1,11 @@
+127.0.0.1 - - [12/Feb/2021:23:19:31 +0500] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:19:37 +0500] "GET /contactapplication/ HTTP/1.1" 404 732
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:19:39 +0500] "GET /favicon.ico HTTP/1.1" 404 720
+127.0.0.1 - - [12/Feb/2021:23:21:12 +0500] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:21:13 +0500] "GET /contactapplication/ HTTP/1.1" 200 1908
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:21:14 +0500] "GET /contactapplication/static/css/style.css;jsessionid=0667A3F998AE35E2A0F3B9DFCF6F7F69 HTTP/1.1" 200 176
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:21:14 +0500] "GET /contactapplication/static/images/bg.png;jsessionid=0667A3F998AE35E2A0F3B9DFCF6F7F69 HTTP/1.1" 200 2264
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:21:25 +0500] "POST /contactapplication/login;jsessionid=0667A3F998AE35E2A0F3B9DFCF6F7F69 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:21:25 +0500] "GET /contactapplication/admin/dashboard HTTP/1.1" 200 1058
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:21:28 +0500] "GET /contactapplication/admin/users HTTP/1.1" 200 4130
+0:0:0:0:0:0:0:1 - - [12/Feb/2021:23:21:28 +0500] "GET /contactapplication/static/js/jQuery.js HTTP/1.1" 304 -

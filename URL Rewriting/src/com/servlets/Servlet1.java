@@ -1,0 +1,23 @@
+package com.servlets;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class Servlet1
+ */
+@WebServlet("/Servlet1")
+public class Servlet1 extends HttpServlet {
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String name = request.getParameter("user_name");
+		
+		response.getWriter().println("<h1>Your name is : "+name+"</h1>");
+		response.getWriter().println("<a href='Servlet2?user="+name+"'>Go To Second Servlet</a>");
+	}
+
+}

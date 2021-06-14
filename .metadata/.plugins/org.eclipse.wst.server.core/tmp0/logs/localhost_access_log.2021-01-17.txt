@@ -1,0 +1,13 @@
+127.0.0.1 - - [17/Jan/2021:19:31:19 +0500] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:19:31:20 +0500] "GET /spring_contact_application/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:19:31:21 +0500] "GET /favicon.ico HTTP/1.1" 404 720
+127.0.0.1 - - [17/Jan/2021:22:55:46 +0500] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:22:55:47 +0500] "GET /spring_contact_application/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:22:55:47 +0500] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:22:55:52 +0500] "GET /spring_contact_application/ HTTP/1.1" 200 57
+127.0.0.1 - - [17/Jan/2021:23:06:14 +0500] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:23:06:15 +0500] "GET /spring_contact_application/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:23:06:22 +0500] "GET /spring_contact_application/hello HTTP/1.1" 500 125551
+127.0.0.1 - - [17/Jan/2021:23:07:39 +0500] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:23:07:39 +0500] "GET /spring_contact_application/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [17/Jan/2021:23:07:46 +0500] "GET /spring_contact_application/hello HTTP/1.1" 500 125551

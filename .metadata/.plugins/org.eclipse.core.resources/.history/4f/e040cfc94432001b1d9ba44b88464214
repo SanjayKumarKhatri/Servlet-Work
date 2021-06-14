@@ -1,0 +1,37 @@
+package com.springcore.javaconfig;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Emp {
+	
+	private Samosa samosa;
+	
+	
+	
+	public Samosa getSamosa() {
+		return samosa;
+	}
+
+
+
+	public void setSamosa(Samosa samosa) {
+		this.samosa = samosa;
+	}
+
+
+
+	public Emp(Samosa samosa) {
+		super();
+		this.samosa = samosa;
+	}
+
+
+
+	public void work() {
+		this.samosa.display();
+		System.out.println("Employee is working");
+	}
+
+}

@@ -1,0 +1,1074 @@
+
+Feb 26, 2020 09:05:34.33 NEW SESSION
+Feb 26, 2020 09:05:34.33 [1648:8240:0226/090534.339:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2020 09:05:40.14 [1648:5648:0226/090540.140:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 26, 2020 09:05:54.76 [1648:8240:0226/090554.765:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+Jul 09, 2020 17:55:21.71 NEW SESSION
+Jul 09, 2020 17:55:21.71 [8528:9884:0709/175521.713:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 17:55:27.36 [8528:3056:0709/175527.364:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 17:56:01.68 [8528:3056:0709/175601.687:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 17:56:48.74 [8528:9884:0709/175648.749:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 17:57:09.83 [8528:3056:0709/175709.837:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 17:58:53.80 [8528:9884:0709/175853.809:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 17:59:00.64 [8528:3056:0709/175900.649:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 18:02:29.93 [8528:3056:0709/180229.937:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 18:02:53.97 [8528:9884:0709/180253.977:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 18:07:20.03 [8528:9884:0709/180720.030:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 18:10:36.14 [8528:3056:0709/181036.148:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 18:13:54.08 [8528:9884:0709/181354.083:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 18:20:47.23 [8528:3056:0709/182047.230:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 18:24:05.14 [8528:9884:0709/182405.147:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 18:30:58.29 [8528:3056:0709/183058.297:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 18:34:16.21 [8528:9884:0709/183416.212:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 18:41:09.36 [8528:3056:0709/184109.367:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 18:44:27.27 [8528:9884:0709/184427.270:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 18:51:20.44 [8528:3056:0709/185120.446:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 18:54:38.31 [8528:9884:0709/185438.315:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:01:31.48 [8528:3056:0709/190131.487:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 19:04:49.37 [8528:9884:0709/190449.372:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:08:06.58 [8528:3056:0709/190806.583:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 19:08:06.61 [8528:9884:0709/190806.583:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:08:14.01 [8528:3056:0709/190814.015:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 19:08:14.03 [8528:9884:0709/190814.023:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:08:26.01 [8528:3056:0709/190826.010:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 19:08:26.04 [8528:9884:0709/190826.010:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:08:34.99 [8528:9884:0709/190834.990:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:08:38.70 [8528:3056:0709/190838.707:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2020 19:08:38.74 [8528:9884:0709/190838.707:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 09, 2020 19:20:13.83 [8528:3056:0709/192013.832:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 09, 2020 19:44:32.38 [8528:3056:0709/194432.388:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 09, 2020 20:01:02.85 [8528:3056:0709/200102.859:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Jul 10, 2020 18:18:57.85 NEW SESSION
+Jul 10, 2020 18:18:57.85 [6456:6188:0710/181857.857:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 18:19:27.65 [6456:6188:0710/181927.652:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 18:20:16.90 [6456:6188:0710/182016.901:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 18:21:52.51 [6456:6188:0710/182152.519:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2020 18:24:46.37 [6456:6188:0710/182446.378:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 11, 2020 08:32:18.42 NEW SESSION
+Jul 11, 2020 08:32:18.42 [7872:1740:0711/083218.420:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 11, 2020 08:32:21.84 [7872:1740:0711/083221.846:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 08:32:33.68 [7872:1740:0711/083233.683:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 08:33:29.02 [7872:1740:0711/083329.019:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 08:35:21.47 [7872:1740:0711/083521.470:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 08:38:30.14 [7872:1740:0711/083830.143:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 08:42:00.69 [7872:11088:0711/084200.692:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 08:43:09.75 [7872:11088:0711/084309.750:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 08:45:23.91 [7872:11088:0711/084523.909:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 08:46:39.78 [7872:1740:0711/084639.786:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 08:50:26.09 [7872:11088:0711/085026.091:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 08:56:50.86 [7872:1740:0711/085650.867:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 09:00:48.26 [7872:11088:0711/090048.264:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 09:07:01.93 [7872:1740:0711/090701.937:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 09:11:10.38 [7872:11088:0711/091110.388:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 09:17:13.00 [7872:1740:0711/091712.999:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 09:21:32.49 [7872:11088:0711/092132.489:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 09:27:24.07 [7872:1740:0711/092724.071:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 09:31:54.64 [7872:11088:0711/093154.645:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 09:37:35.14 [7872:1740:0711/093735.139:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 09:42:16.77 [7872:11088:0711/094216.773:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 11, 2020 09:47:46.20 [7872:1740:0711/094746.204:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 11, 2020 09:52:38.87 [7872:11088:0711/095238.874:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jul 12, 2020 22:47:55.22 NEW SESSION
+Jul 12, 2020 22:47:55.22 [2480:9556:0712/224755.172:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Jul 13, 2020 03:09:33.81 NEW SESSION
+Jul 13, 2020 03:09:33.81 [3472:10268:0713/030933.760:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:34.81 [3472:10268:0713/030934.810:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:35.82 [3472:10268:0713/030935.825:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:37.06 [3472:10268:0713/030937.062:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:38.17 [3472:10268:0713/030938.175:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:40.25 [3472:10268:0713/030940.258:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:42.10 [3472:10268:0713/030942.106:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:43.34 [3472:10268:0713/030943.345:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:45.51 [3472:10268:0713/030945.512:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:46.75 [3472:10268:0713/030946.751:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:48.62 [3472:10268:0713/030948.622:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:49.84 [3472:10268:0713/030949.841:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:52.22 [3472:10268:0713/030952.222:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:53.28 [3472:10268:0713/030953.288:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:55.88 [3472:10268:0713/030955.880:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:57.61 [3472:10268:0713/030957.616:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:09:59.25 [3472:10268:0713/030959.255:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:00.27 [3472:10268:0713/031000.273:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:01.39 [3472:10268:0713/031001.395:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:02.71 [3472:10268:0713/031002.711:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:03.74 [3472:10268:0713/031003.744:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:05.17 [3472:10268:0713/031005.177:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:08.00 [3472:10268:0713/031008.003:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:09.99 [3472:10268:0713/031009.994:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:11.72 [3472:10268:0713/031011.723:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:12.76 [3472:10268:0713/031012.759:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:13.79 [3472:10268:0713/031013.792:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:14.85 [3472:10268:0713/031014.854:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:16.10 [3472:10268:0713/031016.104:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:17.96 [3472:10268:0713/031017.960:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:20.35 [3472:10268:0713/031020.359:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:21.49 [3472:10268:0713/031021.490:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:22.90 [3472:10268:0713/031022.908:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:23.98 [3472:10268:0713/031023.986:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:25.15 [3472:10268:0713/031025.153:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:26.31 [3472:10268:0713/031026.315:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:27.50 [3472:10268:0713/031027.503:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:29.41 [3472:10268:0713/031029.414:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:30.48 [3472:10268:0713/031030.488:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:31.49 [3472:10268:0713/031031.491:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:33.20 [3472:10268:0713/031033.204:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:34.91 [3472:10268:0713/031034.918:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:36.45 [3472:10268:0713/031036.453:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:37.53 [3472:10268:0713/031037.534:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:39.07 [3472:10268:0713/031039.075:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:40.13 [3472:10268:0713/031040.137:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:41.79 [3472:10268:0713/031041.790:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:43.60 [3472:10268:0713/031043.602:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:44.75 [3472:10268:0713/031044.750:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:46.84 [3472:10268:0713/031046.839:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:51.36 [3472:10268:0713/031051.364:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:52.48 [3472:10268:0713/031052.483:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:10:53.70 [3472:10268:0713/031053.701:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:12:01.54 [3472:10268:0713/031201.539:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:13:41.11 [3472:10268:0713/031341.114:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:14:25.97 [3472:10268:0713/031425.973:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:17:45.01 [3472:10268:0713/031745.010:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:19:59.96 [3472:10268:0713/031959.966:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:21:50.03 [3472:10268:0713/032150.031:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:25:54.01 [3472:10268:0713/032554.017:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:29:58.03 [3472:10268:0713/032958.031:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:34:02.01 [3472:10268:0713/033402.015:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:35:49.00 [3472:10268:0713/033549.004:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:43:30.96 [3472:10268:0713/034330.968:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:51:16.13 [3472:10268:0713/035116.132:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:53:30.11 [3472:6044:0713/035330.109:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 03:53:52.40 [3472:6044:0713/035352.403:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 03:54:14.33 [3472:6044:0713/035414.335:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 03:55:53.01 [3472:10268:0713/035553.013:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 03:56:10.93 [3472:6044:0713/035610.937:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 03:59:32.15 [3472:10268:0713/035932.156:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 04:03:23.70 [3472:6044:0713/040323.709:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 04:03:49.23 [3472:6044:0713/040349.230:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 04:06:39.09 [3472:6044:0713/040639.091:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 04:06:58.84 [3472:6044:0713/040658.848:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 04:09:24.86 [3472:6044:0713/040924.864:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 04:10:28.96 [3472:10268:0713/041028.963:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 04:16:58.96 [3472:10268:0713/041658.965:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 04:22:54.38 [3472:6044:0713/042254.383:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 13, 2020 04:34:01.53 [3472:6044:0713/043401.529:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jul 13, 2020 04:34:03.60 [3472:10268:0713/043403.607:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+Jul 13, 2020 04:34:07.62 [3472:6044:0713/043407.623:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 04:43:00.95 [3472:10268:0713/044300.950:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.269 s for first_image_paint 1.256 s
+
+Jul 13, 2020 05:07:44.36 NEW SESSION
+Jul 13, 2020 05:07:44.36 [9956:7776:0713/050744.355:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:08:09.12 [9956:7776:0713/050809.122:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:08:54.31 [9956:7776:0713/050854.316:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:10:08.31 [9956:1216:0713/051008.319:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:10:29.28 [9956:7776:0713/051029.280:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:10:53.32 [9956:1216:0713/051053.325:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:12:01.33 [9956:1216:0713/051201.338:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:13:16.97 [9956:7776:0713/051316.973:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:13:43.35 [9956:1216:0713/051343.352:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:16:16.35 [9956:1216:0713/051616.356:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:20:06.36 [9956:1216:0713/052006.367:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:21:00.90 [9956:7776:0713/052100.907:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:29:41.38 [9956:1216:0713/052941.381:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:31:00.91 [9956:7776:0713/053100.910:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:39:41.40 [9956:1216:0713/053941.402:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 13, 2020 05:39:52.33 [9956:7776:0713/053952.337:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 05:41:18.04 [9956:7776:0713/054118.040:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 13, 2020 05:41:21.32 [9956:7776:0713/054121.328:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 06:59:58.93 [9956:7776:0713/065958.937:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jul 13, 2020 07:00:10.01 [9956:7776:0713/070010.010:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 07:00:39.77 [9956:7776:0713/070039.733:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 07:01:31.57 [9956:7776:0713/070131.574:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 07:03:00.31 [9956:7776:0713/070300.314:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 13, 2020 12:55:41.95 NEW SESSION
+Jul 13, 2020 12:55:41.95 [9688:8204:0713/125541.946:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 12:56:20.07 [9688:8204:0713/125620.074:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -118
+Jul 13, 2020 12:57:28.80 [9688:8204:0713/125728.800:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 12:59:17.84 [9688:8204:0713/125917.840:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 12:59:44.40 [9688:8204:0713/125944.404:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 13, 2020 16:38:33.27 NEW SESSION
+Jul 13, 2020 16:38:33.27 [7956:9840:0713/163833.257:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 16:38:58.30 [7956:9840:0713/163858.309:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 16:39:46.31 [7956:9840:0713/163946.316:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 16:49:57.00 [7956:9840:0713/164957.002:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Jul 13, 2020 20:32:49.56 NEW SESSION
+Jul 13, 2020 20:32:49.57 [6104:10092:0713/203249.545:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 20:32:57.83 [6104:10092:0713/203257.835:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 21:54:21.67 [6104:10092:0713/215421.678:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 21:54:31.89 [6104:10092:0713/215431.899:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 13, 2020 21:55:18.15 [6104:10092:0713/215518.154:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 13, 2020 22:03:48.61 NEW SESSION
+Jul 13, 2020 22:03:48.61 [11944:2308:0713/220348.613:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 20, 2020 18:38:16.51 NEW SESSION
+Jul 20, 2020 18:38:16.51 [2376:8504:0720/183816.483:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-EtIKSV82ixJHE3AzqhoiVbUGKG+Kd8XS0fFToow29o0=' 'sha256-QSyFltV9X3gkyBrg+SMfKvZNXmqPQc6K4B6OYhTuXmw=' 'sha256-4M0jdrILwm/h3mCRbjIF07jAlCbI0ZbyLjQL/9HVhwE=' 'sha256-CbH+xPsBKQxVw5d9blISLDeuMSe1M+dJ4xfArFynIfw=' 'sha256-C9ctze2LhHtwL+fcPVPkmVRYjQgXTGs4xfBAzlQwGWk=' 'sha256-yVmlm9txUAL9c9wAcTXYqdk4zxtPoJO/pyl4aKclgK8='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Jul 20, 2020 18:38:16.53 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Jul 20, 2020 19:07:24.70 [2376:8504:0720/190724.707:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-EtIKSV82ixJHE3AzqhoiVbUGKG+Kd8XS0fFToow29o0=' 'sha256-QSyFltV9X3gkyBrg+SMfKvZNXmqPQc6K4B6OYhTuXmw=' 'sha256-4M0jdrILwm/h3mCRbjIF07jAlCbI0ZbyLjQL/9HVhwE=' 'sha256-CbH+xPsBKQxVw5d9blISLDeuMSe1M+dJ4xfArFynIfw=' 'sha256-C9ctze2LhHtwL+fcPVPkmVRYjQgXTGs4xfBAzlQwGWk=' 'sha256-yVmlm9txUAL9c9wAcTXYqdk4zxtPoJO/pyl4aKclgK8='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Jul 20, 2020 19:07:24.71 ", source: chrome-search://local-ntp/local-ntp.html (1)
+
+Jul 23, 2020 12:26:23.14 NEW SESSION
+Jul 23, 2020 12:26:23.14 [12956:8156:0723/122623.139:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 12:26:46.05 [12956:8156:0723/122646.055:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 12:27:36.94 [12956:8156:0723/122736.948:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 12:29:16.48 [12956:8156:0723/122916.486:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 12:33:03.43 [12956:8156:0723/123303.433:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 12:39:05.78 [12956:8156:0723/123905.785:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 12:49:05.79 [12956:8156:0723/124905.794:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 12:52:07.84 [12956:8156:0723/125207.845:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Jul 23, 2020 12:53:04.94 [12956:8156:0723/125304.948:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 13:03:04.95 [12956:8156:0723/130304.951:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 23, 2020 13:13:04.95 [12956:8156:0723/131304.959:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 30, 2020 21:50:59.14 NEW SESSION
+Jul 30, 2020 21:50:59.14 [4212:5684:0730/215059.147:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2020 21:51:03.43 [4212:12744:0730/215103.433:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 30, 2020 21:51:33.50 [4212:5684:0730/215133.506:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2020 21:52:01.36 [4212:12744:0730/215201.367:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 30, 2020 21:52:34.85 [4212:5684:0730/215234.858:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2020 21:53:31.50 [4212:12744:0730/215331.506:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 30, 2020 21:54:35.31 [4212:5684:0730/215435.313:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2020 21:55:35.68 [4212:12744:0730/215535.685:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 30, 2020 21:58:25.36 [4212:5684:0730/215825.360:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2020 21:58:30.78 [4212:10656:0730/215830.782:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jul 31, 2020 09:58:07.55 NEW SESSION
+Jul 31, 2020 09:58:07.55 [8372:1076:0731/095807.559:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 09:58:31.05 [8372:1076:0731/095831.050:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 09:59:30.00 [8372:1076:0731/095930.009:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:01:27.93 [8372:1076:0731/100127.933:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:04:55.94 [8372:1076:0731/100455.949:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:10:54.60 [8372:1076:0731/101054.600:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:20:54.61 [8372:1076:0731/102054.619:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:30:54.62 [8372:1076:0731/103054.625:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:40:54.63 [8372:1076:0731/104054.630:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:42:00.69 [8372:1076:0731/104200.696:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:42:33.92 [8372:1076:0731/104233.924:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jul 31, 2020 10:43:27.53 [8372:1076:0731/104327.531:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jul 31, 2020 10:53:39.57 [8372:1076:0731/105339.570:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Jul 31, 2020 10:57:42.64 NEW SESSION
+Jul 31, 2020 10:57:42.64 [7680:4900:0731/105742.645:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:58:19.97 [7680:4900:0731/105819.977:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 10:59:16.00 [7680:4900:0731/105916.000:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 11:00:53.92 [7680:4900:0731/110053.926:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 11:04:15.06 [7680:4900:0731/110415.062:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 11:09:51.57 [7680:4900:0731/110951.575:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 11:13:56.56 [7680:4900:0731/111356.568:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 11:15:02.93 [7680:4900:0731/111502.930:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jul 31, 2020 11:15:40.57 [7680:1524:0731/111540.571:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 31, 2020 11:17:19.68 [7680:1524:0731/111719.684:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 31, 2020 11:20:50.82 [7680:1524:0731/112050.820:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 31, 2020 11:25:14.01 [7680:4900:0731/112514.018:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jul 31, 2020 11:25:53.97 [7680:1524:0731/112553.974:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Aug 08, 2020 11:31:25.52 NEW SESSION
+Aug 08, 2020 11:31:25.52 [2812:6488:0808/113125.524:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Aug 09, 2020 10:02:12.44 NEW SESSION
+Aug 09, 2020 10:02:12.44 [6532:6344:0809/100212.427:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Aug 09, 2020 20:06:59.80 NEW SESSION
+Aug 09, 2020 20:06:59.80 [5404:9640:0809/200659.800:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Oct 24, 2020 11:00:16.52 NEW SESSION
+Oct 24, 2020 11:00:16.52 [1024/110016.520:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Oct 24, 2020 14:07:57.69 NEW SESSION
+Oct 24, 2020 14:07:57.69 [4812:10384:1024/140757.688:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:08:42.86 [4812:10384:1024/140842.859:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:09:52.41 [4812:10384:1024/140952.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:12:03.75 [4812:10384:1024/141203.756:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:13:50.81 [4812:10384:1024/141350.810:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:17:22.33 [1024/141722.335:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Oct 24, 2020 14:21:37.00 [4812:10384:1024/142137.008:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:31:58.02 [4812:10384:1024/143158.023:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:37:57.33 [4812:10384:1024/143757.330:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:45:48.36 [8984:1056:1024/144548.366:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:46:33.95 [8984:1056:1024/144633.959:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:47:39.83 [8984:1056:1024/144739.830:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Oct 24, 2020 14:49:39.94 [8984:1056:1024/144939.943:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+Oct 24, 2020 19:36:37.96 NEW SESSION
+Oct 24, 2020 19:36:37.96 [1024/193637.935:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Oct 24, 2020 19:42:12.33 [13024:8528:1024/194212.334:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 24, 2020 19:42:14.28 [13024:8528:1024/194214.279:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 24, 2020 19:42:34.93 [13024:8528:1024/194234.934:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Oct 25, 2020 10:19:11.82 NEW SESSION
+Oct 25, 2020 10:19:11.82 [1025/101911.815:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Oct 26, 2020 20:16:41.85 NEW SESSION
+Oct 26, 2020 20:16:41.85 [1026/201641.815:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Oct 27, 2020 11:09:05.67 NEW SESSION
+Oct 27, 2020 11:09:05.67 [1027/110905.669:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Oct 30, 2020 19:11:56.18 NEW SESSION
+Oct 30, 2020 19:11:56.18 [1030/191156.183:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Nov 07, 2020 15:39:53.94 NEW SESSION
+Nov 07, 2020 15:39:53.95 [7304:5400:1107/153953.945:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 07, 2020 15:39:54.04 [7304:5400:1107/153954.043:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 15:47:33.98 [1107/154733.982:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Nov 07, 2020 16:01:28.27 [7304:5400:1107/160128.274:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 07, 2020 16:01:28.38 [7304:5400:1107/160128.380:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 16:07:21.83 [7304:7780:1107/160721.833:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en (0)
+Nov 07, 2020 16:14:09.03 [7304:5400:1107/161409.032:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 07, 2020 16:14:13.49 [7304:5400:1107/161413.491:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 16:14:27.55 [7304:5400:1107/161427.557:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 16:15:17.69 [7304:5400:1107/161517.695:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 16:17:02.07 [7304:5400:1107/161702.072:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 16:17:47.48 [7304:5400:1107/161747.487:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 07, 2020 16:18:09.95 [7304:5400:1107/161809.953:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 16:18:11.99 [7304:5400:1107/161811.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 07, 2020 16:27:52.06 [7304:5400:1107/162752.067:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 07, 2020 16:29:03.23 [7304:5400:1107/162903.238:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 07, 2020 16:29:03.27 [7304:5400:1107/162903.275:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+
+Dec 26, 2020 20:25:25.88 NEW SESSION
+Dec 26, 2020 20:25:25.88 [7148:9924:1226/202525.888:ERROR:device_event_log_impl.cc(211)] [20:25:25.888] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 26, 2020 20:35:17.71 [1226/203517.717:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 26, 2020 20:48:30.45 [7148:9344:1226/204830.451:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 27, 2020 10:08:01.36 NEW SESSION
+Dec 27, 2020 10:08:01.36 [7500:1320:1227/100801.365:ERROR:device_event_log_impl.cc(211)] [10:08:01.362] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 27, 2020 10:17:02.08 [1227/101702.087:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 27, 2020 10:54:29.86 [7500:8120:1227/105429.864:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 27, 2020 10:54:51.02 [7500:8120:1227/105451.022:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 27, 2020 10:55:47.04 [7500:8120:1227/105547.043:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 27, 2020 10:57:21.64 [7500:8120:1227/105721.645:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 27, 2020 11:01:07.81 [7500:8120:1227/110107.813:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 27, 2020 18:37:25.97 NEW SESSION
+Dec 27, 2020 18:37:25.97 [4676:9672:1227/183725.972:ERROR:device_event_log_impl.cc(211)] [18:37:25.972] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 27, 2020 18:47:19.41 [1227/184719.417:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 27, 2020 18:51:32.18 [4676:9672:1227/185132.187:ERROR:device_event_log_impl.cc(211)] [18:51:32.187] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Dec 27, 2020 19:24:16.35 [4676:8296:1227/192416.354:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 19:24:20.71 [4676:8296:1227/192420.717:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 19:24:31.66 [4676:8296:1227/192431.661:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 19:26:22.71 [4676:8296:1227/192622.710:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Dec 27, 2020 20:20:22.82 [4676:8296:1227/202022.827:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 20:20:52.38 [4676:8296:1227/202052.388:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 20:21:57.44 [4676:8296:1227/202157.446:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 20:23:18.91 [4676:8296:1227/202318.911:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 20:26:26.21 [4676:8296:1227/202626.214:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 27, 2020 20:26:38.10 [4676:8296:1227/202638.106:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 28, 2020 13:56:54.11 NEW SESSION
+Dec 28, 2020 13:56:54.11 [3508:3984:1228/135654.111:ERROR:device_event_log_impl.cc(211)] [13:56:54.116] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 28, 2020 13:57:00.33 [3508:32:1228/135700.337:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 13:57:27.14 [3508:32:1228/135727.147:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 13:58:36.66 [3508:32:1228/135836.663:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 28, 2020 14:01:18.45 NEW SESSION
+Dec 28, 2020 14:01:18.45 [5228:1316:1228/140118.451:ERROR:device_event_log_impl.cc(211)] [14:01:18.450] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 28, 2020 14:01:25.96 [5228:11212:1228/140125.961:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 14:01:55.90 [5228:11212:1228/140155.905:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 14:02:39.15 [5228:11212:1228/140239.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 28, 2020 16:22:09.33 NEW SESSION
+Dec 28, 2020 16:22:09.34 [4604:10780:1228/162209.327:ERROR:device_event_log_impl.cc(211)] [16:22:09.327] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 28, 2020 16:31:50.13 [1228/163150.133:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 28, 2020 22:51:22.15 NEW SESSION
+Dec 28, 2020 22:51:22.15 [5304:7624:1228/225122.150:ERROR:device_event_log_impl.cc(211)] [22:51:22.158] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 28, 2020 22:54:16.28 [5304:7216:1228/225416.280:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 22:54:42.72 [5304:7216:1228/225442.722:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 23:01:14.14 [1228/230114.142:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 28, 2020 23:05:03.74 [5304:7216:1228/230503.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 28, 2020 23:05:37.29 [5304:7216:1228/230537.297:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 23:07:02.45 [5304:7216:1228/230702.456:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 28, 2020 23:07:29.81 [5304:7216:1228/230729.818:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 28, 2020 23:08:11.71 [5304:7216:1228/230811.718:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 23:08:23.32 [5304:7216:1228/230823.328:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 23:11:45.70 [5304:7216:1228/231145.701:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 23:12:15.13 [5304:7216:1228/231215.139:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 28, 2020 23:12:22.80 [5304:7216:1228/231222.807:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 28, 2020 23:12:46.32 [5304:7216:1228/231246.320:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 28, 2020 23:13:53.85 [5304:7216:1228/231353.850:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 28, 2020 23:17:41.47 [3244:1192:1228/231741.461:ERROR:device_event_log_impl.cc(211)] [23:17:41.476] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 28, 2020 23:20:24.46 [5688:8936:1228/232024.462:ERROR:device_event_log_impl.cc(211)] [23:20:24.463] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 28, 2020 23:24:55.06 NEW SESSION
+Dec 28, 2020 23:24:55.06 [5748:2504:1228/232455.047:ERROR:device_event_log_impl.cc(211)] [23:24:55.053] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 29, 2020 11:37:02.50 NEW SESSION
+Dec 29, 2020 11:37:02.50 [8224:7204:1229/113702.506:ERROR:device_event_log_impl.cc(211)] [11:37:02.507] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 29, 2020 14:52:47.53 NEW SESSION
+Dec 29, 2020 14:52:47.53 [1864:3824:1229/145247.528:ERROR:device_event_log_impl.cc(211)] [14:52:47.527] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 29, 2020 14:52:47.58 [1864:2596:1229/145247.534:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 29, 2020 14:53:20.36 [1864:2596:1229/145320.367:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 29, 2020 14:54:10.74 [1864:2596:1229/145410.748:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 29, 2020 14:55:45.71 [1864:2596:1229/145545.719:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 29, 2020 15:02:27.15 [1229/150227.156:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 29, 2020 15:02:44.44 [1864:2596:1229/150244.449:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 29, 2020 15:02:54.23 [1864:2596:1229/150254.237:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 29, 2020 15:03:05.27 [1864:2596:1229/150305.273:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 29, 2020 15:11:50.83 [1864:2596:1229/151150.835:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 29, 2020 15:37:05.68 [1864:2596:1229/153705.685:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 29, 2020 15:56:14.69 [1864:2596:1229/155614.694:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 30, 2020 09:40:55.39 NEW SESSION
+Dec 30, 2020 09:40:55.39 [6832:7904:1230/094055.388:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 09:40:55.41 [6832:7788:1230/094055.390:ERROR:device_event_log_impl.cc(211)] [09:40:55.385] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 30, 2020 09:41:20.16 [6832:7904:1230/094120.168:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 09:42:09.69 [6832:7904:1230/094209.694:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 09:44:07.39 [6832:7904:1230/094407.394:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 09:46:54.37 [6832:7904:1230/094654.373:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 09:50:43.23 [1230/095043.235:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 30, 2020 11:46:44.64 NEW SESSION
+Dec 30, 2020 11:46:44.64 [1696:8716:1230/114644.646:ERROR:device_event_log_impl.cc(211)] [11:46:44.637] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 30, 2020 11:46:44.91 [1696:7280:1230/114644.912:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 11:47:09.97 [1696:7280:1230/114709.974:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 11:47:59.08 [1696:7280:1230/114759.084:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 11:49:46.81 [1696:7280:1230/114946.810:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 30, 2020 11:53:15.04 [1696:7280:1230/115315.043:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 30, 2020 19:28:37.63 NEW SESSION
+Dec 30, 2020 19:28:37.63 [4568:8880:1230/192837.627:ERROR:device_event_log_impl.cc(211)] [19:28:37.627] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 30, 2020 19:33:00.73 [4568:1028:1230/193300.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 19:38:28.28 [1230/193828.287:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 30, 2020 19:38:47.25 [4568:1028:1230/193847.252:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 19:50:04.76 [4568:1028:1230/195004.760:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 19:51:35.22 [4568:1028:1230/195135.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 19:54:33.30 [4568:1028:1230/195433.308:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 19:55:18.69 [4568:1028:1230/195518.690:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 19:55:59.83 [4568:1028:1230/195559.836:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 19:57:55.08 [4568:1028:1230/195755.087:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 19:58:42.24 [4568:1028:1230/195842.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:00:05.75 [4568:1028:1230/200005.759:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:01:48.23 [4568:1028:1230/200148.233:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:09:55.23 [4568:1028:1230/200955.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:10:47.79 [4568:1028:1230/201047.792:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:12:06.41 [4568:1028:1230/201206.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 30, 2020 20:13:28.45 [4568:1028:1230/201328.455:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 20:17:03.69 [4568:1028:1230/201703.690:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:17:14.53 [4568:1028:1230/201714.534:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:18:05.25 [4568:1028:1230/201805.249:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:21:01.75 [4568:1028:1230/202101.757:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:21:39.78 [4568:1028:1230/202139.782:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:26:50.80 [4568:1028:1230/202650.801:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:27:13.03 [4568:1028:1230/202713.030:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:32:31.32 [4568:1028:1230/203231.322:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:33:10.83 [4568:1028:1230/203310.837:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:34:36.83 [4568:1028:1230/203436.833:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Dec 30, 2020 20:35:01.63 [4568:1028:1230/203501.637:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 20:35:33.74 [4568:1028:1230/203533.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:36:10.36 [4568:1028:1230/203610.366:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 20:36:35.24 [4568:1028:1230/203635.243:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 30, 2020 20:37:49.21 [4568:1028:1230/203749.216:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 20:38:46.51 [4568:1028:1230/203846.512:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 30, 2020 20:40:44.71 [4568:1028:1230/204044.718:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 30, 2020 20:41:21.26 [4568:1028:1230/204121.259:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 31, 2020 11:28:46.57 NEW SESSION
+Dec 31, 2020 11:28:46.57 [6320:10232:1231/112846.573:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 11:28:46.58 [6320:7424:1231/112846.573:ERROR:device_event_log_impl.cc(211)] [11:28:46.576] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 31, 2020 11:28:46.60 [6320:10232:1231/112846.573:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:28:46.60 [6320:10232:1231/112846.589:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:28:46.60 [6320:10232:1231/112846.589:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:28:46.62 [6320:10232:1231/112846.589:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:29:07.43 [6320:10232:1231/112907.438:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:29:08.59 [6320:10232:1231/112908.593:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 11:29:10.66 [6320:10232:1231/112910.669:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:29:11.59 [6320:10232:1231/112911.593:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:29:16.04 [6320:10232:1231/112916.042:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:30:01.40 [6320:10232:1231/113001.405:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 11:30:04.01 [6320:10232:1231/113004.015:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:30:05.56 [6320:10232:1231/113005.566:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:30:08.49 [6320:10232:1231/113008.490:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:30:21.93 [6320:10232:1231/113021.929:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:31:46.22 [6320:10232:1231/113146.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 11:31:56.54 [6320:10232:1231/113156.548:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:31:58.45 [6320:10232:1231/113158.451:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:31:58.97 [6320:10232:1231/113158.978:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:32:05.88 [6320:10232:1231/113205.886:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:34:54.08 [6320:10232:1231/113454.087:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:34:57.06 [6320:10232:1231/113457.067:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:35:06.09 [6320:10232:1231/113506.092:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:35:06.10 [6320:10232:1231/113506.093:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:35:27.17 [6320:10232:1231/113527.176:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 11:38:34.42 [1231/113834.425:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 31, 2020 11:40:56.61 [6320:10232:1231/114056.613:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:40:56.63 [6320:7424:1231/114056.613:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+Dec 31, 2020 11:41:08.61 [6320:10232:1231/114108.618:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:42:30.19 [6320:10232:1231/114230.192:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:42:45.74 [6320:10232:1231/114245.745:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:42:58.80 [6320:10232:1231/114258.807:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 11:45:33.61 [6320:10232:1231/114533.611:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:46:02.02 [6320:10232:1231/114602.028:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:47:05.59 [6320:10232:1231/114705.589:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:48:51.88 [6320:10232:1231/114851.886:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:52:12.06 [6320:10232:1231/115212.069:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:53:10.81 [6320:10232:1231/115310.814:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 11:58:16.77 [6320:10232:1231/115816.770:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 11:58:16.79 [6320:7424:1231/115816.770:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+Dec 31, 2020 12:03:22.82 [6320:10232:1231/120322.827:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 12:07:24.90 [6320:10232:1231/120724.900:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 12:07:56.15 [6320:10232:1231/120756.153:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 12:08:54.77 [6320:10232:1231/120854.771:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 12:10:41.60 [6320:10232:1231/121041.599:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 12:13:34.85 [6320:10232:1231/121334.855:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 12:14:02.79 [6320:7424:1231/121402.799:ERROR:device_event_log_impl.cc(211)] [12:14:02.799] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Dec 31, 2020 12:14:08.72 [6320:10232:1231/121408.721:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 12:14:11.73 [6320:10232:1231/121411.733:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 12:14:31.93 [6320:10232:1231/121431.939:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 12:22:22.93 [6320:10232:1231/122222.936:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 12:22:22.97 [6320:7424:1231/122222.936:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+
+Dec 31, 2020 14:16:54.71 NEW SESSION
+Dec 31, 2020 14:16:54.71 [5448:5160:1231/141654.718:ERROR:device_event_log_impl.cc(211)] [14:16:54.722] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 31, 2020 14:17:02.89 [5448:5308:1231/141702.898:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 14:17:02.94 [5448:5308:1231/141702.944:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:17:02.95 [5448:5308:1231/141702.944:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:17:02.96 [5448:5308:1231/141702.944:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:17:02.97 [5448:5308:1231/141702.944:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:17:24.35 [5448:5308:1231/141724.351:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:17:25.42 [5448:5308:1231/141725.428:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:17:26.93 [5448:5308:1231/141726.931:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:17:32.28 [5448:5308:1231/141732.283:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 14:17:33.79 [5448:5308:1231/141733.798:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:18:06.04 [5448:5308:1231/141806.040:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:18:10.66 [5448:5308:1231/141810.667:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:18:20.62 [5448:5308:1231/141820.621:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 14:18:22.95 [5448:5308:1231/141822.955:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:18:22.97 [5448:5308:1231/141822.955:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:19:43.13 [5448:5308:1231/141943.131:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 14:19:44.67 [5448:5308:1231/141944.672:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:19:56.00 [5448:5308:1231/141956.004:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:19:59.16 [5448:5308:1231/141959.165:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:20:15.15 [5448:5308:1231/142015.159:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:23:03.10 [5448:5308:1231/142303.109:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:23:08.79 [5448:5308:1231/142308.799:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:23:31.55 [5448:5308:1231/142331.552:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:23:31.90 [5448:5308:1231/142331.900:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 14:24:08.40 [5448:5308:1231/142408.401:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:26:46.39 [1231/142646.390:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 31, 2020 14:29:16.09 [5448:5308:1231/142916.095:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:29:16.10 [5448:5160:1231/142916.096:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+Dec 31, 2020 14:29:26.42 [5448:5308:1231/142926.423:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 31, 2020 14:30:11.33 [5448:5308:1231/143011.336:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:30:13.07 [5448:5308:1231/143013.076:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Dec 31, 2020 14:30:13.84 [5448:5308:1231/143013.839:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+
+Jan 01, 2021 14:03:15.03 NEW SESSION
+Jan 01, 2021 14:03:15.03 [944:2156:0101/140315.032:ERROR:device_event_log_impl.cc(211)] [14:03:15.032] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 01, 2021 14:03:15.04 [944:4060:0101/140315.033:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 14:03:15.06 [944:4060:0101/140315.035:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:03:15.07 [944:4060:0101/140315.036:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:03:35.18 [944:4060:0101/140335.188:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 14:03:36.20 [944:4060:0101/140336.200:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:03:37.41 [944:2156:0101/140337.418:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Jan 01, 2021 14:03:41.93 [944:4060:0101/140341.932:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:04:20.39 [944:4060:0101/140420.393:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 14:04:26.26 [944:4060:0101/140426.260:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:04:39.14 [944:4060:0101/140439.143:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:06:00.94 [944:4060:0101/140600.941:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:06:09.64 [944:4060:0101/140609.639:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 14:06:34.38 [944:4060:0101/140634.381:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:09:20.51 [944:4060:0101/140920.510:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 14:09:37.12 [944:4060:0101/140937.122:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:09:41.67 [944:4060:0101/140941.678:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:13:01.69 [0101/141301.697:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 01, 2021 14:15:51.54 [944:4060:0101/141551.543:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 14:16:59.66 [944:4060:0101/141659.662:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+
+Jan 01, 2021 15:20:22.32 NEW SESSION
+Jan 01, 2021 15:20:22.32 [6468:5436:0101/152022.318:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:20:22.36 [6468:8900:0101/152022.328:ERROR:device_event_log_impl.cc(211)] [15:20:22.327] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 01, 2021 15:20:22.38 [6468:5436:0101/152022.332:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:20:22.39 [6468:5436:0101/152022.333:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:20:44.24 [6468:5436:0101/152044.247:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:20:45.11 [6468:5436:0101/152045.117:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:20:50.57 [6468:5436:0101/152050.573:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:21:25.78 [6468:5436:0101/152125.787:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:21:31.66 [6468:5436:0101/152131.668:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:21:36.47 [6468:5436:0101/152136.470:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:22:51.91 [6468:5436:0101/152251.916:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:23:06.01 [6468:5436:0101/152306.010:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:23:14.34 [6468:5436:0101/152314.345:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:45:47.61 [1860:6628:0101/154547.611:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:45:47.62 [1860:6628:0101/154547.623:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:45:47.66 [1860:7044:0101/154547.623:ERROR:device_event_log_impl.cc(211)] [15:45:47.623] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 01, 2021 15:45:47.69 [1860:6628:0101/154547.623:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:46:09.77 [1860:6628:0101/154609.777:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:46:14.23 [1860:6628:0101/154614.237:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:46:16.43 [1860:6628:0101/154616.430:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:47:02.97 [1860:6628:0101/154702.975:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:47:02.98 [1860:6628:0101/154702.987:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:47:11.69 [1860:6628:0101/154711.697:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:48:30.03 [1860:6628:0101/154830.030:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:48:36.23 [1860:6628:0101/154836.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:48:43.20 [1860:6628:0101/154843.207:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:51:13.38 [1860:6628:0101/155113.388:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:51:45.72 [1860:6628:0101/155145.724:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:52:23.91 [1860:6628:0101/155223.916:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:55:20.97 [0101/155520.977:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 01, 2021 15:58:01.01 [1860:6628:0101/155801.010:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 15:58:10.46 [1860:6628:0101/155810.462:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 15:58:37.84 [1860:6628:0101/155837.840:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 16:08:01.01 [1860:6628:0101/160801.014:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 01, 2021 18:40:36.08 NEW SESSION
+Jan 01, 2021 18:40:36.08 [7800:8928:0101/184036.086:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 18:40:36.10 [7800:4432:0101/184036.094:ERROR:device_event_log_impl.cc(211)] [18:40:36.094] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 01, 2021 18:40:36.11 [7800:8928:0101/184036.095:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:40:36.12 [7800:8928:0101/184036.095:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:40:59.93 [7800:8928:0101/184059.934:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:41:01.04 [7800:8928:0101/184101.041:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 18:41:02.25 [7800:8928:0101/184102.259:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:41:45.69 [7800:8928:0101/184145.690:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 18:41:51.43 [7800:8928:0101/184151.431:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:41:59.93 [7800:8928:0101/184159.935:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:43:33.99 [7800:8928:0101/184333.998:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:43:37.95 [7800:8928:0101/184337.957:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:43:40.46 [7800:8928:0101/184340.461:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 18:46:29.99 [7800:8928:0101/184629.997:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:46:45.41 [7800:8928:0101/184645.410:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:47:17.22 [7800:8928:0101/184717.225:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 18:50:06.25 [0101/185006.256:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 01, 2021 18:52:36.51 [7800:4432:0101/185236.514:ERROR:device_event_log_impl.cc(211)] [18:52:36.514] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Jan 01, 2021 18:52:38.21 [7800:8928:0101/185238.218:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 18:53:39.15 [7800:8928:0101/185339.157:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 18:54:08.14 [7800:8928:0101/185408.140:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jan 01, 2021 19:02:38.22 [7800:8928:0101/190238.219:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 19:12:38.22 [7800:8928:0101/191238.222:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 19:22:38.22 [7800:8928:0101/192238.224:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 19:32:38.22 [7800:8928:0101/193238.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 19:42:38.22 [7800:8928:0101/194238.228:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2021 19:52:38.23 [7800:8928:0101/195238.232:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 04, 2021 13:26:40.76 NEW SESSION
+Jan 04, 2021 13:26:40.76 [11172:9808:0104/132640.754:ERROR:device_event_log_impl.cc(211)] [13:26:40.754] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 13:36:17.65 [0104/133617.656:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 04, 2021 13:37:23.94 [11172:9808:0104/133723.939:ERROR:device_event_log_impl.cc(211)] [13:37:23.939] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+
+Jan 04, 2021 16:04:29.60 NEW SESSION
+Jan 04, 2021 16:04:29.60 [9756:6200:0104/160429.603:ERROR:device_event_log_impl.cc(211)] [16:04:29.603] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 16:11:09.93 [9756:2356:0104/161109.930:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 04, 2021 16:11:29.69 [9756:2356:0104/161129.699:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 04, 2021 16:12:13.42 [9756:2356:0104/161213.424:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 04, 2021 16:14:08.99 [0104/161408.995:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 04, 2021 16:18:52.93 [9756:2356:0104/161852.930:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 04, 2021 16:19:11.80 [9756:2356:0104/161911.805:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 04, 2021 16:19:22.80 [9756:2356:0104/161922.808:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 04, 2021 16:19:36.69 [9756:8584:0104/161936.694:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jan 04, 2021 23:14:11.43 NEW SESSION
+Jan 04, 2021 23:14:11.43 [13176:10068:0104/231411.428:ERROR:device_event_log_impl.cc(211)] [23:14:11.427] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 04, 2021 23:24:05.21 [0104/232405.211:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 04, 2021 23:40:01.22 [13176:5276:0104/234001.224:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 04, 2021 23:40:25.65 [13176:5276:0104/234025.655:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 04, 2021 23:41:12.59 [13176:5276:0104/234112.592:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 04, 2021 23:45:11.13 [13176:5276:0104/234511.131:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 04, 2021 23:45:33.03 [13176:5276:0104/234533.036:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 04, 2021 23:46:15.04 [13176:5276:0104/234615.047:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 04, 2021 23:46:21.18 [13176:5276:0104/234621.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 04, 2021 23:46:31.98 [13176:5276:0104/234631.980:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 05, 2021 24:12:16.81 [13176:5276:0105/001216.811:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 05, 2021 24:12:54.95 [13176:5276:0105/001254.952:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+Jan 06, 2021 15:27:31.13 NEW SESSION
+Jan 06, 2021 15:27:31.13 [784:9320:0106/152731.127:ERROR:device_event_log_impl.cc(211)] [15:27:31.127] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 06, 2021 15:37:12.27 [0106/153712.276:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Jan 07, 2021 15:19:04.40 NEW SESSION
+Jan 07, 2021 15:19:04.40 [7072:4092:0107/151904.390:ERROR:device_event_log_impl.cc(211)] [15:19:04.390] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 07, 2021 15:28:09.53 [0107/152809.536:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 07, 2021 15:50:59.44 [7072:8036:0107/155059.439:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 08, 2021 12:47:15.11 NEW SESSION
+Jan 08, 2021 12:47:15.11 [7500:5368:0108/124715.105:ERROR:device_event_log_impl.cc(211)] [12:47:15.105] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 08, 2021 13:01:36.37 [7500:10992:0108/130136.375:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 13:01:47.85 [7500:12440:0108/130147.855:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 08, 2021 13:01:47.86 [7500:10992:0108/130147.857:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 08, 2021 13:03:43.47 NEW SESSION
+Jan 08, 2021 13:03:43.48 [12348:6696:0108/130343.476:ERROR:device_event_log_impl.cc(211)] [13:03:43.476] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 08, 2021 13:03:55.47 [12348:6732:0108/130355.476:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 13:04:18.63 [12348:6732:0108/130418.634:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 13:05:11.48 [12348:6732:0108/130511.482:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 13:06:54.59 [12348:6732:0108/130654.592:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 13:09:45.46 [12348:6732:0108/130945.467:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 13:13:28.27 [0108/131328.272:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 08, 2021 13:47:21.82 [12348:6732:0108/134721.823:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 08, 2021 19:04:53.21 NEW SESSION
+Jan 08, 2021 19:04:53.21 [2832:9088:0108/190453.211:ERROR:device_event_log_impl.cc(211)] [19:04:53.211] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 08, 2021 19:04:53.42 [2832:7536:0108/190453.422:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 19:06:38.29 [2832:7536:0108/190638.289:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 19:14:24.19 [0108/191424.194:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 08, 2021 19:19:34.37 [2832:7536:0108/191934.371:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Jan 08, 2021 19:20:19.50 [2832:7536:0108/192019.508:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jan 08, 2021 19:21:00.38 [2832:7536:0108/192100.385:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 19:25:01.55 [2832:7536:0108/192501.554:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:14:49.55 [2832:7536:0108/201449.557:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:15:07.44 [2832:7536:0108/201507.444:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:23:30.89 [2832:7536:0108/202330.894:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:23:35.17 [2832:7536:0108/202335.170:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:23:45.99 [2832:7536:0108/202345.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:35:02.42 [2832:7536:0108/203502.424:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:35:37.07 [2832:7536:0108/203537.076:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:36:25.92 [2832:7536:0108/203625.923:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:43:59.59 [2832:7536:0108/204359.589:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2021 20:44:10.67 [2832:7536:0108/204410.675:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:44:21.73 [2832:7536:0108/204421.736:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 20:44:57.91 [2832:7536:0108/204457.910:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 08, 2021 22:51:30.64 NEW SESSION
+Jan 08, 2021 22:51:30.64 [7416:2024:0108/225130.643:ERROR:device_event_log_impl.cc(211)] [22:51:30.643] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 08, 2021 23:02:35.59 NEW SESSION
+Jan 08, 2021 23:02:35.59 [5160:10948:0108/230235.591:ERROR:device_event_log_impl.cc(211)] [23:02:35.591] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 08, 2021 23:09:11.21 [5160:11168:0108/230911.210:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2021 23:09:17.18 [5160:11168:0108/230917.183:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:09:28.33 [5160:11168:0108/230928.332:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:10:44.19 [5160:11168:0108/231044.193:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:10:55.11 [5160:11168:0108/231055.118:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:12:29.03 [0108/231229.036:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 08, 2021 23:16:24.35 [5160:11168:0108/231624.354:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:20:37.17 [5160:11168:0108/232037.178:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:20:47.33 [5160:11168:0108/232047.330:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:21:32.49 [5160:11168:0108/232132.491:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:23:33.87 [5160:11168:0108/232333.878:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:28:54.88 [5160:11168:0108/232854.881:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:39:36.45 [5160:11168:0108/233936.458:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:40:01.45 [5160:11168:0108/234001.455:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:49:42.37 [5160:11168:0108/234942.371:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2021 23:54:03.53 [5160:11168:0108/235403.532:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2021 23:54:40.62 [5160:11168:0108/235440.623:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2021 23:54:46.25 [5160:11168:0108/235446.256:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 09, 2021 11:54:15.90 NEW SESSION
+Jan 09, 2021 11:54:15.90 [5508:3708:0109/115415.894:ERROR:device_event_log_impl.cc(211)] [11:54:15.894] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 09, 2021 12:06:29.08 [5508:5396:0109/120629.067:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 12:11:11.55 [0109/121111.555:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Jan 09, 2021 16:05:16.78 NEW SESSION
+Jan 09, 2021 16:05:16.78 [8280:8084:0109/160516.783:ERROR:device_event_log_impl.cc(211)] [16:05:16.782] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 09, 2021 16:15:03.61 [0109/161503.610:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 09, 2021 16:58:17.20 [8280:656:0109/165817.209:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 17:02:50.70 [8280:656:0109/170250.702:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+Jan 09, 2021 17:37:52.81 NEW SESSION
+Jan 09, 2021 17:37:52.81 [2560:4416:0109/173752.809:ERROR:device_event_log_impl.cc(211)] [17:37:52.809] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 09, 2021 17:47:30.50 [0109/174730.504:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 09, 2021 18:04:17.35 [2560:7072:0109/180417.359:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 18:04:40.19 [2560:7072:0109/180440.192:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 18:27:46.34 [2560:7072:0109/182746.340:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 18:30:57.66 [2560:7072:0109/183057.664:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 18:31:24.97 [2560:7072:0109/183124.969:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 18:32:14.33 [2560:7072:0109/183214.339:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 18:35:56.43 [2560:7072:0109/183556.437:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 18:51:55.75 [2560:7072:0109/185155.749:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 18:58:08.76 [2560:7072:0109/185808.769:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 19:00:57.85 [2560:7072:0109/190057.857:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Jan 09, 2021 19:03:35.14 [2560:7072:0109/190335.142:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 19:05:05.83 [2560:7072:0109/190505.835:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+Jan 09, 2021 19:33:34.23 NEW SESSION
+Jan 09, 2021 19:33:34.23 [5040:5604:0109/193334.222:ERROR:device_event_log_impl.cc(211)] [19:33:34.222] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 09, 2021 19:36:53.03 [5040:5336:0109/193653.034:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 19:42:52.18 [0109/194252.180:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 09, 2021 19:55:08.70 [5040:5336:0109/195508.699:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 19:55:35.82 [5040:5336:0109/195535.825:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 19:55:55.48 [5040:5336:0109/195555.479:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 19:55:57.79 [5040:5336:0109/195557.789:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 19:57:20.48 [5040:5336:0109/195720.479:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 19:57:44.98 [5040:5336:0109/195744.982:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 19:58:36.11 [5040:5336:0109/195836.119:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 19:59:03.99 [5040:5336:0109/195903.991:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Jan 09, 2021 20:00:53.29 [5040:5336:0109/200053.291:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:01:04.04 [5040:5336:0109/200104.043:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:01:28.49 [5040:5336:0109/200128.491:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 20:01:36.80 [5040:5336:0109/200136.808:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:01:47.96 [5040:5336:0109/200147.966:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:08:49.05 [5040:5336:0109/200849.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:18:33.77 [5040:5336:0109/201833.776:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 20:18:53.00 [5040:5336:0109/201853.001:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:41:31.39 [5040:5604:0109/204131.395:ERROR:device_event_log_impl.cc(211)] [20:41:31.395] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Jan 09, 2021 20:51:52.29 [5040:5336:0109/205152.291:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:52:03.07 [5040:5336:0109/205203.076:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:52:28.78 [5040:5336:0109/205228.787:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:54:23.45 [5040:5336:0109/205423.454:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 20:55:02.98 [5040:5336:0109/205502.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 09, 2021 23:15:01.39 NEW SESSION
+Jan 09, 2021 23:15:01.39 [9740:8548:0109/231501.383:ERROR:device_event_log_impl.cc(211)] [23:15:01.383] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 09, 2021 23:15:01.53 [9740:3732:0109/231501.530:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:15:21.74 [9740:3732:0109/231521.742:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:16:09.85 [9740:3732:0109/231609.854:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:17:46.63 [9740:3732:0109/231746.633:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:19:39.14 [9740:3732:0109/231939.147:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 23:19:59.04 [9740:3732:0109/231959.044:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:20:35.78 [9740:3732:0109/232035.788:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 23:20:57.28 [9740:3732:0109/232057.279:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:24:07.03 [0109/232407.036:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 09, 2021 23:37:11.98 [9740:3732:0109/233711.980:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:37:43.31 [9740:3732:0109/233743.316:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:37:52.32 [9740:3732:0109/233752.327:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:38:29.56 [9740:3732:0109/233829.569:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 09, 2021 23:38:48.52 [9740:3732:0109/233848.524:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 09, 2021 23:41:25.33 [9740:3732:0109/234125.333:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+Jan 10, 2021 17:37:54.50 NEW SESSION
+Jan 10, 2021 17:37:54.50 [3800:728:0110/173754.499:ERROR:device_event_log_impl.cc(211)] [17:37:54.499] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 10, 2021 17:37:54.55 [3800:4300:0110/173754.557:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 17:38:24.35 [3800:4300:0110/173824.357:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 17:39:21.04 [3800:4300:0110/173921.049:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 17:40:59.95 [3800:4300:0110/174059.951:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 17:44:24.68 [3800:4300:0110/174424.685:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 17:47:06.49 [0110/174706.496:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 10, 2021 17:49:55.12 [3800:4300:0110/174955.125:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 17:59:50.62 [3800:4300:0110/175950.625:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 18:09:50.63 [3800:4300:0110/180950.633:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 18:19:50.63 [3800:4300:0110/181950.637:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 10, 2021 18:29:50.64 [3800:4300:0110/182950.641:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 18, 2021 18:29:27.80 NEW SESSION
+Jan 18, 2021 18:29:27.80 [7160:3540:0118/182927.791:ERROR:device_event_log_impl.cc(211)] [18:29:27.791] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 18, 2021 18:39:13.93 [0118/183913.937:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 18, 2021 18:56:25.24 [7160:8180:0118/185625.245:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2021 19:00:56.79 [7160:8180:0118/190056.789:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2021 19:01:24.02 [7160:8180:0118/190124.024:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2021 19:02:13.68 [7160:8180:0118/190213.680:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 18, 2021 19:25:24.52 NEW SESSION
+Jan 18, 2021 19:25:24.52 [1760:7348:0118/192524.500:ERROR:device_event_log_impl.cc(211)] [19:25:24.513] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 18, 2021 19:37:14.74 NEW SESSION
+Jan 18, 2021 19:37:14.74 [1900:9160:0118/193714.741:ERROR:device_event_log_impl.cc(211)] [19:37:14.741] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 18, 2021 19:47:07.85 [0118/194707.851:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 18, 2021 20:18:03.00 [1900:6492:0118/201803.005:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2021 20:31:13.00 [1900:6492:0118/203113.004:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2021 20:31:35.42 [1900:6492:0118/203135.421:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2021 20:32:30.55 [1900:6492:0118/203230.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2021 20:52:43.99 [1900:6492:0118/205243.994:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 20, 2021 11:25:49.56 NEW SESSION
+Jan 20, 2021 11:25:49.56 [2152:10256:0120/112549.564:ERROR:device_event_log_impl.cc(211)] [11:25:49.564] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 20, 2021 13:57:01.10 NEW SESSION
+Jan 20, 2021 13:57:01.10 [11016:7552:0120/135701.096:ERROR:device_event_log_impl.cc(211)] [13:57:01.097] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 20, 2021 14:24:57.84 [11016:6080:0120/142457.848:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2021 15:13:14.78 [11016:6080:0120/151314.779:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2021 15:13:28.10 [11016:6080:0120/151328.104:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 20, 2021 15:14:19.38 [11016:6080:0120/151419.381:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2021 15:14:48.14 [11016:6080:0120/151448.144:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+Jan 20, 2021 19:18:12.54 NEW SESSION
+Jan 20, 2021 19:18:12.55 [9364:9104:0120/191812.544:ERROR:device_event_log_impl.cc(211)] [19:18:12.544] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 20, 2021 19:31:07.96 [9364:4832:0120/193107.968:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2021 19:31:41.83 [9364:4832:0120/193141.837:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 20, 2021 20:04:14.98 [9364:4832:0120/200414.986:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2021 20:30:13.74 [9364:9104:0120/203013.740:ERROR:CONSOLE(1)] "Ignoring unauthorized client request from null", source: devtools://devtools/bundled/extensions/extensions.js (1)
+
+Jan 20, 2021 22:50:04.31 NEW SESSION
+Jan 20, 2021 22:50:04.31 [4952:11232:0120/225004.312:ERROR:device_event_log_impl.cc(211)] [22:50:04.312] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 20, 2021 23:40:55.15 NEW SESSION
+Jan 20, 2021 23:40:55.15 [9848:1808:0120/234055.143:ERROR:device_event_log_impl.cc(211)] [23:40:55.142] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 20, 2021 23:57:50.69 [9848:1808:0120/235750.691:ERROR:device_event_log_impl.cc(211)] [23:57:50.691] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Jan 21, 2021 24:00:11.99 [9848:5980:0121/000011.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 24:07:37.27 [9848:5980:0121/000737.274:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 21, 2021 24:07:57.92 [9848:5980:0121/000757.925:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 24:08:41.45 [9848:5980:0121/000841.451:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 24:10:37.38 [9848:5980:0121/001037.381:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 24:13:31.85 [9848:5980:0121/001331.854:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 24:14:37.43 [9848:5980:0121/001437.434:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 24:15:03.28 [9848:5980:0121/001503.287:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 21, 2021 24:15:07.84 [9848:5980:0121/001507.847:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 24:16:45.79 [9848:5980:0121/001645.799:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 01:04:57.40 [9848:5980:0121/010457.399:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 21, 2021 01:05:28.96 [9848:5980:0121/010528.964:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 21, 2021 01:06:24.09 [9848:5980:0121/010624.093:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 21, 2021 10:42:50.04 NEW SESSION
+Jan 21, 2021 10:42:50.04 [6624:6208:0121/104250.035:ERROR:device_event_log_impl.cc(211)] [10:42:50.035] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 21, 2021 23:05:23.09 NEW SESSION
+Jan 21, 2021 23:05:23.09 [5156:400:0121/230523.089:ERROR:device_event_log_impl.cc(211)] [23:05:23.090] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 21, 2021 23:20:03.97 [5156:6972:0121/232003.979:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:37:31.86 [5156:6972:0121/233731.866:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:37:54.26 [5156:6972:0121/233754.264:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 21, 2021 23:38:23.09 [5156:6972:0121/233823.091:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:38:53.72 [5156:6972:0121/233853.724:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 21, 2021 23:39:38.11 [5156:6972:0121/233938.118:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:41:00.25 [5156:6972:0121/234100.254:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 21, 2021 23:41:24.22 [5156:6972:0121/234124.225:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:52:43.02 [5156:6972:0121/235243.020:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:54:57.66 [5156:6972:0121/235457.669:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:55:26.77 [5156:6972:0121/235526.777:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:57:05.57 [5156:6972:0121/235705.575:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2021 23:58:01.28 [5156:6972:0121/235801.287:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 24:03:54.39 [5156:6972:0122/000354.393:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 24:04:31.86 [5156:6972:0122/000431.859:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 22, 2021 24:05:21.30 [5156:6972:0122/000521.302:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 24:05:46.18 [5156:6972:0122/000546.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 22, 2021 24:05:52.84 [5156:6972:0122/000552.841:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 22, 2021 24:06:06.80 [5156:6972:0122/000606.803:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 22, 2021 16:02:02.19 NEW SESSION
+Jan 22, 2021 16:02:02.19 [2312:5680:0122/160202.188:ERROR:device_event_log_impl.cc(211)] [16:02:02.188] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 22, 2021 16:34:28.39 [2312:8172:0122/163428.398:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 16:34:49.68 [2312:8172:0122/163449.682:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 16:36:00.20 [2312:8172:0122/163600.205:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Jan 22, 2021 17:47:26.43 [2312:8172:0122/174726.438:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 17:47:48.87 [2312:8172:0122/174748.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 22, 2021 17:51:12.36 [2312:8172:0122/175112.363:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 17:51:37.46 [2312:8172:0122/175137.461:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 17:52:21.31 [2312:8172:0122/175221.310:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 17:53:12.41 [2312:8172:0122/175312.413:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 22, 2021 18:49:45.34 [2312:5680:0122/184945.341:ERROR:device_event_log_impl.cc(211)] [18:49:45.341] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Jan 22, 2021 18:54:21.25 [2312:5680:0122/185421.255:ERROR:device_event_log_impl.cc(211)] [18:54:21.256] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Jan 22, 2021 19:10:29.76 [2312:8172:0122/191029.767:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 19:10:52.81 [2312:8172:0122/191052.811:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 19:13:40.73 [2312:8172:0122/191340.732:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 22, 2021 22:57:31.52 NEW SESSION
+Jan 22, 2021 22:57:31.52 [12016:6632:0122/225731.516:ERROR:device_event_log_impl.cc(211)] [22:57:31.516] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 22, 2021 23:08:53.69 [12016:8236:0122/230853.692:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:13:15.54 [12016:8236:0122/231315.549:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:13:34.82 [12016:8236:0122/231334.828:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 22, 2021 23:13:36.99 [12016:8236:0122/231336.994:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:13:55.77 [12016:8236:0122/231355.770:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 22, 2021 23:15:19.46 [12016:8236:0122/231519.465:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:15:45.97 [12016:8236:0122/231545.975:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:16:32.21 [12016:8236:0122/231632.211:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Jan 22, 2021 23:25:03.40 [12016:8236:0122/232503.408:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:26:52.68 [12016:8236:0122/232652.679:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:46:58.06 [12016:8236:0122/234658.060:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 22, 2021 23:47:15.30 [12016:8236:0122/234715.300:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 25, 2021 23:11:16.87 NEW SESSION
+Jan 25, 2021 23:11:16.87 [6180:5112:0125/231116.871:ERROR:device_event_log_impl.cc(211)] [23:11:16.872] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2021 23:11:16.96 [6180:6580:0125/231116.969:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2021 23:11:40.88 [6180:6580:0125/231140.882:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 25, 2021 23:25:03.17 [9436:6464:0125/232503.173:ERROR:device_event_log_impl.cc(211)] [23:25:03.164] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 27, 2021 15:11:46.29 NEW SESSION
+Jan 27, 2021 15:11:46.29 [12440:11544:0127/151146.288:ERROR:device_event_log_impl.cc(211)] [15:11:46.282] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 27, 2021 15:13:30.32 [12440:11544:0127/151330.327:ERROR:device_event_log_impl.cc(211)] [15:13:30.327] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+
+Jan 30, 2021 12:16:16.48 NEW SESSION
+Jan 30, 2021 12:16:16.48 [3048:8432:0130/121616.480:ERROR:device_event_log_impl.cc(211)] [12:16:16.480] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2021 12:16:16.61 [3048:8432:0130/121616.613:ERROR:device_event_log_impl.cc(211)] [12:16:16.613] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jan 30, 2021 12:16:16.71 [3048:8432:0130/121616.708:ERROR:device_event_log_impl.cc(211)] [12:16:16.708] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 01, 2021 19:55:48.45 NEW SESSION
+Feb 01, 2021 19:55:48.45 [11608:10668:0201/195548.448:ERROR:device_event_log_impl.cc(211)] [19:55:48.448] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2021 19:55:48.47 [11608:10668:0201/195548.475:ERROR:device_event_log_impl.cc(211)] [19:55:48.475] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 01, 2021 19:55:48.51 [11608:10668:0201/195548.507:ERROR:device_event_log_impl.cc(211)] [19:55:48.507] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 02, 2021 09:14:26.70 NEW SESSION
+Feb 02, 2021 09:14:26.70 [7500:4600:0202/091426.699:ERROR:device_event_log_impl.cc(211)] [09:14:26.699] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 02, 2021 09:14:28.52 [7500:4600:0202/091428.521:ERROR:device_event_log_impl.cc(211)] [09:14:28.521] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 02, 2021 09:14:28.58 [7500:4600:0202/091428.585:ERROR:device_event_log_impl.cc(211)] [09:14:28.585] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 02, 2021 12:51:30.16 NEW SESSION
+Feb 02, 2021 12:51:30.16 [4800:11948:0202/125130.165:ERROR:device_event_log_impl.cc(211)] [12:51:30.165] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 02, 2021 12:51:30.18 [4800:11948:0202/125130.178:ERROR:device_event_log_impl.cc(211)] [12:51:30.178] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 02, 2021 12:51:30.19 [4800:11948:0202/125130.196:ERROR:device_event_log_impl.cc(211)] [12:51:30.196] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 02, 2021 22:48:58.71 NEW SESSION
+Feb 02, 2021 22:48:58.71 [7516:12880:0202/224858.702:ERROR:device_event_log_impl.cc(211)] [22:48:58.702] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 02, 2021 22:48:58.78 [7516:12880:0202/224858.784:ERROR:device_event_log_impl.cc(211)] [22:48:58.783] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 02, 2021 22:48:58.86 [7516:12880:0202/224858.862:ERROR:device_event_log_impl.cc(211)] [22:48:58.862] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 03, 2021 11:29:30.53 NEW SESSION
+Feb 03, 2021 11:29:30.53 [120:4408:0203/112930.525:ERROR:device_event_log_impl.cc(211)] [11:29:30.526] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2021 11:29:30.59 [120:4408:0203/112930.591:ERROR:device_event_log_impl.cc(211)] [11:29:30.591] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 03, 2021 11:29:30.78 [120:4408:0203/112930.684:ERROR:device_event_log_impl.cc(211)] [11:29:30.684] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 03, 2021 14:51:43.66 NEW SESSION
+Feb 03, 2021 14:51:43.66 [7644:12680:0203/145143.660:ERROR:device_event_log_impl.cc(211)] [14:51:43.660] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2021 14:51:43.75 [7644:12680:0203/145143.754:ERROR:device_event_log_impl.cc(211)] [14:51:43.754] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 03, 2021 14:51:43.84 [7644:12680:0203/145143.844:ERROR:device_event_log_impl.cc(211)] [14:51:43.844] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 03, 2021 19:39:02.36 NEW SESSION
+Feb 03, 2021 19:39:02.37 [5512:4488:0203/193902.364:ERROR:device_event_log_impl.cc(211)] [19:39:02.364] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2021 19:39:10.80 [5512:4488:0203/193910.804:ERROR:device_event_log_impl.cc(211)] [19:39:10.804] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 03, 2021 19:39:10.95 [5512:4488:0203/193910.919:ERROR:device_event_log_impl.cc(211)] [19:39:10.918] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+Feb 03, 2021 19:40:03.51 [5512:8560:0203/194003.517:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 19:40:29.95 [5512:8560:0203/194029.957:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 19:41:23.31 [5512:8560:0203/194123.311:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 19:43:12.35 [5512:8560:0203/194312.357:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Feb 03, 2021 19:47:54.88 [5512:8560:0203/194754.887:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 19:58:37.59 [5512:8560:0203/195837.593:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 19:59:01.79 [5512:8560:0203/195901.790:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 19:59:06.39 [5512:8560:0203/195906.397:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Feb 03, 2021 20:02:37.39 [5512:8560:0203/200237.392:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 20:02:51.47 [5512:8560:0203/200251.470:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Feb 03, 2021 20:09:24.96 [5512:8560:0203/200924.961:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 20:09:54.01 [5512:8560:0203/200954.014:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 20:10:39.68 [5512:8560:0203/201039.688:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 20:12:17.34 [5512:8560:0203/201217.344:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 20:27:32.19 [5512:8560:0203/202732.191:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 20:27:58.87 [5512:8560:0203/202758.877:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 20:28:43.33 [5512:8560:0203/202843.331:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Feb 04, 2021 10:20:59.29 NEW SESSION
+Feb 04, 2021 10:20:59.29 [8732:5264:0204/102059.289:ERROR:device_event_log_impl.cc(211)] [10:20:59.289] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 04, 2021 10:20:59.77 [8732:5264:0204/102059.773:ERROR:device_event_log_impl.cc(211)] [10:20:59.772] Bluetooth: bluetooth_adapter_winrt.cc:1203 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 04, 2021 10:20:59.86 [8732:5264:0204/102059.859:ERROR:device_event_log_impl.cc(211)] [10:20:59.859] Bluetooth: bluetooth_adapter_winrt.cc:1296 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+
+Feb 10, 2021 23:39:10.31 NEW SESSION
+Feb 10, 2021 23:39:10.31 [3764:10164:0210/233910.310:ERROR:device_event_log_impl.cc(211)] [23:39:10.313] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 12, 2021 23:19:46.97 NEW SESSION
+Feb 12, 2021 23:19:46.97 [588:9396:0212/231946.954:ERROR:device_event_log_impl.cc(211)] [23:19:46.957] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 12, 2021 23:19:47.02 [588:9396:0212/231947.028:ERROR:device_event_log_impl.cc(211)] [23:19:47.021] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 22, 2021 14:26:58.98 NEW SESSION
+Feb 22, 2021 14:26:58.98 [6888:2152:0222/142658.965:ERROR:device_event_log_impl.cc(211)] [14:26:58.975] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2021 14:26:59.07 [6888:2152:0222/142659.078:ERROR:device_event_log_impl.cc(211)] [14:26:59.076] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2021 14:27:48.21 [6888:5428:0222/142748.217:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2021 14:28:16.56 [6888:5428:0222/142816.561:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2021 14:29:41.92 [6888:2152:0222/142941.920:ERROR:device_event_log_impl.cc(211)] [14:29:41.922] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 22, 2021 14:29:43.09 [6888:5428:0222/142943.096:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2021 14:38:46.40 [6888:5428:0222/143846.393:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2021 15:00:57.26 [6888:5428:0222/150057.269:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Feb 22, 2021 15:05:46.50 NEW SESSION
+Feb 22, 2021 15:05:46.50 [7572:8600:0222/150546.501:ERROR:device_event_log_impl.cc(211)] [15:05:46.503] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2021 15:05:46.51 [7572:8600:0222/150546.514:ERROR:device_event_log_impl.cc(211)] [15:05:46.513] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2021 15:06:41.27 [7572:7904:0222/150641.275:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2021 15:07:14.86 [7572:7904:0222/150714.860:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Feb 23, 2021 13:03:25.61 NEW SESSION
+Feb 23, 2021 13:03:25.61 [6868:3896:0223/130325.609:ERROR:device_event_log_impl.cc(211)] [13:03:25.614] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2021 13:03:25.68 [6868:3896:0223/130325.684:ERROR:device_event_log_impl.cc(211)] [13:03:25.684] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 23, 2021 18:46:43.64 NEW SESSION
+Feb 23, 2021 18:46:43.64 [4224:2528:0223/184643.630:ERROR:device_event_log_impl.cc(211)] [18:46:43.636] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2021 18:58:56.84 [4224:3212:0223/185856.849:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2021 18:59:17.85 [4224:3212:0223/185917.850:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2021 19:38:03.71 [4224:2528:0223/193803.717:ERROR:device_event_log_impl.cc(211)] [19:38:03.723] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 23, 2021 19:38:04.95 [4224:3212:0223/193804.954:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2021 19:38:27.30 [4224:3212:0223/193827.307:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2021 19:39:15.38 [4224:3212:0223/193915.379:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2021 19:39:31.34 [4224:3212:0223/193931.340:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2021 19:39:48.53 [4224:3212:0223/193948.532:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Feb 24, 2021 15:23:28.43 NEW SESSION
+Feb 24, 2021 15:23:28.43 [11732:4224:0224/152328.425:ERROR:device_event_log_impl.cc(211)] [15:23:28.427] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2021 15:40:40.29 [11732:4224:0224/154040.297:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+Feb 24, 2021 15:40:40.31 [11732:4224:0224/154040.297:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+Feb 24, 2021 15:40:40.32 [11732:4224:0224/154040.298:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+Feb 24, 2021 15:40:40.33 [11732:4224:0224/154040.298:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+Feb 24, 2021 15:40:40.34 [11732:4224:0224/154040.298:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+Feb 24, 2021 15:40:40.35 [11732:4224:0224/154040.298:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+
+Feb 27, 2021 14:01:04.81 NEW SESSION
+Feb 27, 2021 14:01:04.81 [3928:2636:0227/140104.798:ERROR:device_event_log_impl.cc(211)] [14:01:04.803] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2021 14:01:04.87 [3928:2636:0227/140104.872:ERROR:device_event_log_impl.cc(211)] [14:01:04.867] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

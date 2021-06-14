@@ -1,0 +1,26 @@
+package com.andro;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import connect.DBConnection;
+
+/**
+ * Servlet implementation class Register
+ */
+public class Register extends HttpServlet {
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String uname=request.getParameter("uname");
+		String upass=request.getParameter("upass");
+		String uemail=request.getParameter("uemail");
+		String uphone=request.getParameter("uphone");
+	//System.out.println(uname+" "+upass+" "+uemail+" "+uphone);
+		
+		response.getWriter().println(DBConnection.getConnection());
+	}
+
+}

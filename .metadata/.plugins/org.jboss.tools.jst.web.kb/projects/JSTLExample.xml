@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-ru.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-jni.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-util-scan.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/jsp-api.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/websocket-api.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/catalina-ssi.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-dbcp.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="F:/eclipse-workspace/Servlet/JSTLExample/WebContent/WEB-INF/lib/mysql-connector-java-5.1.47.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/el-api.jar"/>
+  <path value="F:/eclipse-workspace/Servlet/JSTLExample/WebContent/WEB-INF/lib/jstl-impl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/c-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/c-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/c.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/fmt-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/fmt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/fn.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/permittedtaglibs.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/scriptfree.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/sql-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/sql.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/x-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/x-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar/meta-inf/x.tld" project="JSTLExample"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-ko.jar"/>
+  <path value="F:/Softwares/Study Software/mysql-connector-java-5.1.47.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-de.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-api.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/jasper.jar"/>
+  <path value="F:/Softwares/Study Software/jstl.jar/jstl.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/catalina-ha.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-ja.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/servlet-api.jar"/>
+  <path value="F:/eclipse-workspace/Servlet/JSTLExample/WebContent/WEB-INF/lib/jstl.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-es.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-cs.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-util.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/catalina.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/catalina-tribes.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-i18n-fr.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/ecj-4.13.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/catalina-ant.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/jasper-el.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/catalina-storeconfig.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/annotations-api.jar"/>
+  <path value="F:/Softwares/Study Software/jstl.jar/jstl-standard.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/c-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/c.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/fmt-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/fmt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/permittedtaglibs.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/scriptfree.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/sql-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/sql.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/x-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar-1/meta-inf/x.tld" project="JSTLExample"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-coyote.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-websocket.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/jaspic-api.jar"/>
+  <path value="F:/Softwares/Study Software/apache-tomcat-9.0.30/lib/tomcat-jdbc.jar"/>
+  <path value="F:/Softwares/Study Software/jstl.jar/jstl-impl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/c-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/c-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/c.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/fmt-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/fmt-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/fmt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/fn.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/permittedtaglibs.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/scriptfree.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/sql-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/sql-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/sql.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/x-1_0-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/x-1_0.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-impl-1.2.jar-1/meta-inf/x.tld" project="JSTLExample"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="F:/eclipse-workspace/Servlet/JSTLExample/WebContent/WEB-INF/lib/jstl-standard.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/c-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/c.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/fmt-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/fmt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/permittedtaglibs.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/scriptfree.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/sql-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/sql.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/x-rt.tld" project="JSTLExample"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-standard.jar/meta-inf/x.tld" project="JSTLExample"/>
+    </library>
+   </libraries>
+  </path>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="13" name="%0" offset="950" path="%1"/>
+   <linked-el length="12" name="%2" offset="1012" path="%1"/>
+   <linked-el length="13" name="%3" offset="950" path="%1"/>
+   <linked-el length="25" name="%4" offset="635" path="%5"/>
+   <linked-el length="9" name="%4" offset="510" path="%5"/>
+   <linked-el length="30" name="%4" offset="704" path="%5"/>
+   <linked-el length="20" name="%4" offset="579" path="%5"/>
+   <linked-el length="25" name="%6" offset="635" path="%5"/>
+   <linked-el length="30" name="%6" offset="704" path="%5"/>
+   <linked-el length="20" name="%6" offset="579" path="%5"/>
+   <linked-el length="14" name="%7" offset="1062" path="%1"/>
+   <linked-el length="12" name="%8" offset="723" path="%9"/>
+   <linked-el length="10" name="%8" offset="1061" path="%9"/>
+   <linked-el length="6" name="%8" offset="480" path="%9"/>
+   <linked-el length="6" name="%8" offset="594" path="%9"/>
+   <linked-el length="11" name="%8" offset="939" path="%9"/>
+   <linked-el length="6" name="%8" offset="338" path="%10"/>
+   <linked-el length="15" name="%11" offset="1114" path="%1"/>
+   <linked-el length="6" name="%12" offset="1431" path="%9"/>
+   <linked-el length="12" name="%13" offset="1012" path="%1"/>
+   <linked-el length="14" name="%13" offset="1062" path="%1"/>
+   <linked-el length="15" name="%13" offset="1114" path="%1"/>
+   <linked-el length="11" name="%14" offset="1749" path="%9"/>
+   <linked-el length="10" name="%14" offset="1671" path="%9"/>
+   <linked-el length="8" name="%15" offset="721" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/JSTLExample/WebContent/index.jsp" value="%9"/>
+  <alias path="rs" value="%0"/>
+  <alias path="/JSTLExample/WebContent/test.jsp" value="%10"/>
+  <alias path="rs.rows" value="%3"/>
+  <alias path="fn" value="%6"/>
+  <alias path="i" value="%8"/>
+  <alias path="row.email" value="%11"/>
+  <alias path="j" value="%12"/>
+  <alias path="/JSTLExample/WebContent/fun.jsp" value="%5"/>
+  <alias path="ds" value="%15"/>
+  <alias path="/JSTLExample/WebContent/show_users.jsp" value="%1"/>
+  <alias path="row.id" value="%2"/>
+  <alias path="name" value="%4"/>
+  <alias path="row.name" value="%7"/>
+  <alias path="row" value="%13"/>
+  <alias path="myurl" value="%14"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

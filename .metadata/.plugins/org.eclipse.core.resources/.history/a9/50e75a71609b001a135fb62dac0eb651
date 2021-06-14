@@ -1,0 +1,307 @@
+package com.bms;
+
+import java.io.*;
+import java.util.*;
+
+public class BMS {
+	
+	public static void main(String[] args) {
+		BMS bms = new BMS();
+		bms.mainMenu();
+	}
+	
+	Scanner ob = new Scanner(System.in);
+	String choice;
+	
+	public void mainMenu() {
+		System.out.println("### WELCOME TO BOOK MANAGEMENT SYSTEM ###\n");
+		System.out.println("1-MANAGE CATAGORY");
+		System.out.println("2-MANAGE BOOK");
+		System.out.println("3-EXIT \n");
+		System.out.print("ENTER OPERATION NO: ");
+		choice = ob.next();
+		
+		switch (choice) {
+		case "1":
+			manageCatagory();
+			break;
+		case "2":
+			manageBook();
+			break;
+		case "3":
+			System.exit(0);
+
+		default:
+			System.out.println("\nYOU HAVE ENTERED WRONG OPERATION PLEASE RE-ENTER OPERATION\n");
+			mainMenu();
+			break;
+		}
+	}
+	
+	public void manageCatagory() {
+		System.out.println("### WELCOME TO MANAGE CATEGORY ###\n" );
+		System.out.println("1-VIEW ALL CATEGORY");
+		System.out.println("2-ADD CATEGORY");
+		System.out.println("3-BACK");
+		System.out.println("4-EXIT \n");
+		System.out.print("ENTER OPERATION NO: ");
+		choice = ob.next();
+		switch (choice) {
+		case "1":
+			displayCategory();
+			
+			break;
+		case "2":
+			addCategory();
+			break;
+		case "3":
+			mainMenu();
+			break;
+		case "4":
+			System.exit(0);
+
+		default:
+			System.out.println("\nYOU HAVE ENTERED WRONG OPERATION PLEASE RE-ENTER OPERATION\n ");
+			break;
+		}
+		
+	}
+	public void displayCategory() {
+		try {
+			File fr = new File("F:\\eclipse-workspace\\001_Book-Management-System\\Categories");
+			String[]ar=fr.list();
+			for(String ss: ar)
+			{
+			  System.out.println(ss);
+			 }
+			
+		  }catch(Exception e) { }
+	
+	}
+	
+	public void addCategory() {
+		int n=0;
+		char s1;
+		do {
+		try {	
+			Scanner scan=new Scanner(System.in);
+		System.out.println("Enter Category Name");
+		String cname=scan.nextLine();
+		File file = new File("Categories");
+		file.mkdir();
+		file = new File("Categories/"+cname+".txt");
+		System.out.println("Enter size of books");
+		String size=scan.next();
+		FileWriter fw = new FileWriter("Categories/"+cname+".txt");
+		BufferedWriter bfr = new BufferedWriter(fw);
+		bfr.write(cname + " = ");
+		bfr.write(size);
+		bfr.close();
+		System.out.println("CATEGORY ADDED SUCCESSFULLY\n");
+	   }
+	   catch(Exception e) { }
+		System.out.println("PRESS Y TO ADD AGAIN AND N TO GO BACK\n");
+		Scanner sc = new Scanner(System.in);
+		s1 = sc.next().charAt(0);
+		if(s1=='y'||s1=='Y')
+		{
+		  addCategory();	
+		}
+		else if(s1=='n'||s1=='N')
+		{
+		  mainMenu();
+		}
+		else
+		{
+		  System.out.println("YOU HAVE ENTER WRONG CHARACTER");
+		}
+		break;
+		} while(s1!='n'||s1!='N');
+	}
+
+	
+
+	public void manageBook() {
+	    System.out.println("### WELCOME TO MANAGE BOOK ###\n");
+	    System.out.println("1-VIEW ALL BOOKS");
+	    System.out.println("2-ADD BOOKS BY CATEGORY");
+	    System.out.println("3-SEARCH BOOKS");
+	    System.out.println("4-BACK TO MAIN");
+	    System.out.println("5-EXIT TO PROGRAM\n");
+	    System.out.print("ENTER OPERATION NO:  ");
+	    choice = ob.next();
+	    switch (choice) {
+		case "1":
+			viewAllbook();
+			break;
+		case "2":
+			addBookCategory();
+			break;
+		case "3":
+			searchBook();
+			break;
+		case "4":
+			mainMenu();
+			break;
+		case "5":
+			System.exit(0);
+		default:
+			System.out.println("\nYOU HAVE ENTERED WRONG OPERATION PLEASE RE-ENTER OPERATION\n");
+		
+			break;
+		}
+	
+	
+	}
+	
+	public void viewAllbook() {
+		Scanner sc = new Scanner(System.in);
+		try {
+			System.out.println("Enter Category Name");
+			String cname = sc.nextLine();
+			File f  = new File("F:\\eclipse-workspace\\001_Book-Management-System\\Categories");
+			File[] ff = f.listFiles();
+			boolean check = false;
+			String s = "";
+			for(File fff  : ff)
+			s=s.concat(fff.getName());
+			String st[] = s.split(".txt");
+			for(String st2 : st)
+			if(st2.equalsIgnoreCase(cname))
+				check = true;
+			if (check)
+			{
+			  FileReader fr = new FileReader(f+"\\"+cname+".txt");
+			  BufferedReader bfr=new BufferedReader(fr);
+    		  String st3="";
+    		  st3=bfr.readLine();
+    		  while((st3=bfr.readLine())!=null) {
+    			 
+    			  System.out.println(st3);
+    		  }
+			}
+			
+		} catch(Exception e) { }
+		
+		
+		
+	}
+	
+	
+	
+	public void addBookCategory() {
+		Scanner inp = new Scanner(System.in);
+		int n = 0;
+		char s1;
+		do {
+		try {	
+	      Scanner sc = new Scanner(System.in);
+		System.out.println("Enter Category Name");
+		String cname = sc.nextLine();
+		File f = new File("F:\\eclipse-workspace\\001_Book-Management-System\\Categories");
+		File[] ff = f.listFiles();
+		boolean check = false;
+		String st = "";
+		for(File fff : ff)
+			st = st.concat(fff.getName());
+		String st2[]=st.split(".txt");
+		for(String st3 : st2)
+			if(st3.equalsIgnoreCase(cname))
+				check = true;
+		if(check)
+		{
+			FileReader fr=new  FileReader(f+"\\"+cname+".txt");
+			BufferedReader bfr  = new BufferedReader(fr);
+			String st4 = " ";
+			st4 = bfr.readLine();
+			String st5[]=st4.split(" = ");
+			int size=Integer.parseInt(st5[1]);
+			int count=0;
+  		    while((st4=bfr.readLine())!=null) {
+  			  count++;
+  		  }
+  		  if(count<size) {
+  			  System.out.println("\tFile Exist ");
+			  System.out.println("\t\tYou Can Add "+(size-count)+"  More Book On This Category");
+			  System.out.println("Enter Book Name");
+			  String bname=inp.nextLine();
+			  System.out.println("Enter Author Name ");
+			  String aname=inp.nextLine();
+			  FileWriter fw=new FileWriter(f+"\\"+cname+".txt",true);
+   		      BufferedWriter bfw=new BufferedWriter(fw);
+   		      bfw.newLine();
+   		      bfw.write(bname+"                     :            ");
+   		      bfw.write(aname);
+   		      bfw.close();
+   		      System.out.println("Book Added Succesfully ");
+			 }
+  		else {
+			  System.out.println("YOU CAN NOT ADD BOOKS ON THIS CATERGORY ITS AlREADY FULL");
+		     }
+  		  }
+		 else {
+   		  
+ 		       System.out.println("\tCategory Does Not Exists");
+ 		    }
+		}
+		catch(Exception e) {
+    		System.out.println(e);
+  	  }
+  	System.out.println("ENTER Y TO ADD AGAIN AND N TO GO BACK");
+		 Scanner sc=new Scanner(System.in);
+		  s1=sc.next().charAt(0);
+		 if(s1=='y'||s1=='Y') {  
+			 addBookCategory();			 }
+		 else if(s1=='n'||s1=='N') {
+			 mainMenu();
+		    }
+		 else {
+			     System.out.println("YOU ENTERED WRONG CHARACTER ");
+		    }
+		   break;
+       }while(s1!='n'||s1!='N');
+  	
+     }
+	
+		
+	public void searchBook() {
+		Scanner sc = new Scanner(System.in);
+    	try {
+    		System.out.println("Enter Category Name ");
+    		String cname=sc.nextLine();
+           System.out.println("Enter Book Name That You Want To Search ");
+            String bname=sc.nextLine();
+            File f = new File("F:\\eclipse-workspace\\001_Book-Management-System\\Categories" );
+	    	   File[]ff = f.listFiles();
+	    	   boolean check=false;
+	    	   String st="";
+	    	   for(File fff:ff)
+	    		   st = st.concat(fff.getName());
+	    	  
+	    	   String st2[]=st.split(".txt");
+	    	  for(String st3:st2) 
+	    		  if(st3.equalsIgnoreCase(cname))
+	    			  check=true;
+	    	  if(check) 
+	    	  {
+	    		  FileReader fr=new FileReader(f+"\\"+cname+".txt");
+	    		  BufferedReader bfr=new BufferedReader(fr);
+	    		  String st4="";
+	    		  int count=0;
+	    		  st=bfr.readLine();
+	    		  while((st=bfr.readLine())!=null) {
+	    			  count++;
+	    			 if(bname.equalsIgnoreCase(st)) {
+	    			  System.out.println("Book Search Successfully");
+	    			  break;
+	    		  }
+	    		  else {
+	    			  System.out.println("BOOK NOT FOUND");
+	    			  break;
+	    		  }
+	    	    }
+	    	  }
+   }catch(Exception e) {  }  
+  } 
+}
+
